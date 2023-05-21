@@ -52,10 +52,6 @@ The following are the main dependencies used in this project:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 # Disease Prediction API [ML]
@@ -100,10 +96,6 @@ The following are the main dependencies used in this project:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 # Frontend and Integration
@@ -155,5 +147,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Thank you for using the React App!
